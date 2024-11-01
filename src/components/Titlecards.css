@@ -1,0 +1,39 @@
+
+    
+.Cardstitle{
+    display: flex;
+    justify-content: space-between;
+    font-size:23px;
+    height:6vh;
+    width:16vw;
+    position: relative;
+    left:40px;
+    font-weight: 700;
+    
+}
+.cardname{
+    position:relative;
+    bottom:4vh;
+    left:1.4vw;
+    width:2vw;
+    height:3vh;
+    white-space: nowrap;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.slick-slider{
+    width:94vw;
+    position:absolute;
+    left:2.5vw;
+}
+.cardimage{
+    width:18vw;
+    height:22vh;
+    
+}
+
+
+
+    
+
+

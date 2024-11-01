@@ -1,0 +1,9 @@
+body{
+    background: rgb(35, 33, 33);
+    color: white;
+}
+.titledes{
+    background: transparent;
+    position: absolute;
+    top:50px;
+}

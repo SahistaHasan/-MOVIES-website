@@ -1,0 +1,51 @@
+.banner{
+    mask-image: linear-gradient(to right, transparent,black 75%);
+    -weblit-mask-image: linear-gradient(to right, transparent,black 75%);
+}
+.title{
+    position:absolute;
+    bottom:20vh;
+    right:53vw;
+    
+    
+}
+.titleinfo{
+    height:40px;
+    position:absolute;
+    top:83vh;
+    left:6vw;
+    padding:10px;
+
+}
+.play{
+    position: absolute;
+    bottom:-2vh;
+    left:200px;
+    height:50px;
+    width:6.5vw;
+    
+}
+.playicon{
+    height:40px;
+    
+}
+.info{
+    position: absolute;
+    bottom:-3.5vh;
+    left:24vw;
+    height: 50px;
+    width:11vw;
+    background: transparent;
+    color: white;
+    outline: none;
+    
+
+}
+.infoicon{
+    height:40px;
+    width:40px;
+    position: absolute;
+    left:-2.8vw;
+    bottom:14px;
+   
+}
