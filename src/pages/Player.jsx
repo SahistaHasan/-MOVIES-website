@@ -52,7 +52,7 @@ const Player = () => {
     <div className='player'>
       <Link to='/'><img src={back_arrow_icon}/></Link>
       <iframe width='90%' height='90%'
-      src={`http://www.youtube.com/embed/${getInfo.key}`}
+      src={`https://www.youtube.com/embed/${getInfo.key}`}
       title='trailer' frameBorder='0' allowFullScreen></iframe>
       <div className='player-info'>
         <p>{getInfo.published_at.slice(0,10)}</p>
