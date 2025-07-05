@@ -1,8 +1,11 @@
-# React + Vite
+# Netflix Clone
+A responsive, Netflix-inspired movie streaming interface built using React and the TMDB API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Features
+--Display of trending and genre-wise movie listings
 
-Currently, two official plugins are available:
+--Interactive movie cards with hover effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+--Dedicated player page with:
+Embedded YouTube trailers
+Similar movie recommendations
