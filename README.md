@@ -1,4 +1,4 @@
-# Netflix Clone
+# MOVIES
 A responsive, Netflix-inspired movie streaming interface built using React and the TMDB API.
 
 # Features:-
